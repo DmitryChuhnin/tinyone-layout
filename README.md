@@ -6,4 +6,4 @@ Main screen
 
 
 Mobile version
-![Иллюстрация к проекту - мобильная версия](https://github.com/DmitryChuhnin/MoGo-adaptive/raw/master/tinyoneMobile.png)
+![Иллюстрация к проекту - мобильная версия](https://github.com/DmitryChuhnin/tinyone-layout/raw/master/tinyoneMobile.png)
